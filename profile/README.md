@@ -1,6 +1,6 @@
 ![rackhouse-connect-logo-240px](https://github.com/RackHouse-Connect/.github/assets/676428/84be67d3-2726-424d-927c-a28ead0c63d0)
 
-# [RackHouse Cnnect](https://www.rackhouseconnect.com/) 
+# [RackHouse Connect](https://www.rackhouseconnect.com/) 
 
 ## E-commerce Just for Beverage Brands
 
